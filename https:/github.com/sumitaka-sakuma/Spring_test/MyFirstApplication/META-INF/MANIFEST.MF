@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MyFirstApplication
+Bundle-SymbolicName: MyFirstApplication
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: MyFirstApplication
+Export-Package: com.example.demo,
+ com.example.demo.config
